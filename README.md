@@ -1,0 +1,1 @@
+# Movie_Rater_Android_NativeScript_App
